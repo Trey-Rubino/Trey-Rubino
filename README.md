@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there 👋
+
+- 🌱 Currently studying Computer Science at University
+- 🔭 Currently working full-time as a Junior Software Developer
+- ⚡ Languages: PHP , MySQL, Python, C++, HTML / CSS, JavaScript
+
+## More About Me! 
+
+### I love all things tech! My main goal is to keep obtaining knowledge about the computer world, to benefit my career as well as myself and my colleages. 
 
 <!--
 **Trey-Rubino/Trey-Rubino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
